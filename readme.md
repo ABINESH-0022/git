@@ -3,3 +3,6 @@ this is learing process
 # this is change from feature branch
 # this is feature 2.o
 # this from bug branch
+# this from bug branch
+# this is change from feature branch
+# this is feature 2.o
